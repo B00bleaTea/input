@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-    var age string
+    var x string
     fmt.Println("> ")
     _, err: fmt.Scan(&age)
 }
