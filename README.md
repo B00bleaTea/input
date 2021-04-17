@@ -4,5 +4,5 @@
 
 #### format:
 ```
-[language_name].[language_file+extension]
+[language_name].[language_file_extension]
 ```
