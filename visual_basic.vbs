@@ -1,1 +1,2 @@
-x = UserInput( "> " )
+dim x
+x = InputBox("> ")
